@@ -1,3 +1,3 @@
 # KotlinAnimatedCounter
 Text with slider and animation
-![Demo] (demo.gif)
+![Finished App](demo.gif)
